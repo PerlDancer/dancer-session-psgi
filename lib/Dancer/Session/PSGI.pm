@@ -77,3 +77,7 @@ Now, your two applications can share the same session informations.
 =head1 DESCRIPTION
 
 Dancer::Session::PSGI let you use C<Plack::Middleware::Session> as backend for your sessions.
+
+=head1 MAINTAINER
+
+Dancer Core Team
